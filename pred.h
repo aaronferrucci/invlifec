@@ -11,5 +11,6 @@ class Pred {
   // 20 21 22 23 24
   // Luckily, I can assume an int has at least 25 bits.
   int m_v;
+  bool valid;
 };
 
